@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "月夜見海月",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2025-12-06T05:06:28.321505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月夜見海月",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/01_月夜見海月_スリーズブーケ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月夜見海月",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/02_月夜見海月_スリーズブーケ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月夜見海月",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_月夜見海月_スリーズブーケ.txt"
+    }
+  ]
+}
